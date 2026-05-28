@@ -91,8 +91,8 @@ Central Michigan University
 
 ## Contact
 
-- Email: your_email@domain.edu
-- Google Scholar: [Scholar Link](#)
+- Email: duyen.nguyen@howard.edu
+- Google Scholar: [[Scholar Link](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=en&oi=ao)](#)
 - GitHub: [GitHub Link](#)
 - LinkedIn: [LinkedIn Link](#)
 
